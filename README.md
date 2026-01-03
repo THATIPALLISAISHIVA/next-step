@@ -95,10 +95,6 @@ NextStep/
 ├── spark_dashboard.png
 └── README.md
 ```
-## Author
 
-**Badam Venkatesh**  
-💼 AI Enthusiast | Builder of GenAI + Career Tools  
-📬 [LinkedIn](https://www.linkedin.com/in/badamvenkatesh/) | 🌐 [Portfolio](https://badam-portfolio.netlify.app)
 
 
