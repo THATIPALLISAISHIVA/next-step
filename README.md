@@ -29,9 +29,7 @@
 
 ---
 
-## 📷 Sample Dashboard
 
-![NextStep Dashboard](dashboard.png)
 
 ---
 
